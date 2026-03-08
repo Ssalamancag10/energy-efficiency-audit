@@ -1,0 +1,501 @@
+LeakID,Plant,Location,Diameter_mm,Pressure_psi,LeakType,OperatorNotes,Temperature_C,Humidity_%,WindSpeed_m_s,InspectionShift,InspectorID
+1,Plant C,Assembly Line 1,2.93,97.91,Visible Leak,Interference detected,29.28,43.72,0.33,Afternoon,105
+2,Plant A,Assembly Line 1,13.59,75.59,Visible Leak,Interference detected,27.16,68.06,3.83,Night,101
+3,Plant C,Assembly Line 2,10.85,98.04,Visible Leak,Possible leak,21.19,43.32,2.92,Morning,112
+4,Plant C,Assembly Line 1,24.58,92.4,Discharge,No comment,31.48,49.3,3.91,Morning,104
+5,Plant A,Compressor Room,3.69,106.79,Background Noise,Interference detected,34.1,80.88,3.76,Afternoon,107
+6,Plant A,Packaging Area,10.55,66.42,Discharge,Possible leak,31.42,73.73,4.02,Afternoon,100
+7,Plant C,Packaging Area,24.27,105.66,Background Noise,Interference detected,15.03,35.72,2.59,Morning,119
+8,Plant B,Maintenance Area,21.77,92.48,Visible Leak,No comment,27.73,55.72,0.7,Morning,111
+9,Plant C,Assembly Line 1,20.61,117.78,Micro Leak,Clear signal,16.02,31.75,3.36,Afternoon,110
+10,Plant C,Compressor Room,7.19,80.51,Discharge,No comment,20.15,58.85,3.1,Morning,106
+11,Plant C,Maintenance Area,5.1,97.96,Micro Leak,Needs verification,16.19,69.75,3.71,Afternoon,114
+12,Plant C,Assembly Line 2,17.05,115.92,Discharge,Interference detected,27.08,37.11,0.85,Morning,110
+13,Plant A,Maintenance Area,23.31,66.15,Visible Leak,Interference detected,28.73,47.33,0.97,Afternoon,115
+14,Plant C,Maintenance Area,14.36,116.23,Discharge,Needs verification,17.29,53.87,4.45,Night,102
+15,Plant B,Assembly Line 1,14.72,101.27,Visible Leak,Needs verification,22.68,85.17,3.75,Afternoon,119
+16,Plant A,Assembly Line 2,7.72,64.07,Discharge,Clear signal,24.12,89.6,4.54,Afternoon,113
+17,Plant B,Maintenance Area,19.47,78.06,Visible Leak,Interference detected,22.38,32.69,3.79,Night,102
+18,Plant B,Compressor Room,5.49,102.49,Visible Leak,Interference detected,17.42,75.66,2.99,Morning,100
+19,Plant B,Compressor Room,8.77,64.04,Background Noise,Clear signal,23.38,52.3,3.27,Night,114
+20,Plant B,Packaging Area,11.21,94.93,Visible Leak,Possible leak,30.02,53.55,4.45,Afternoon,100
+21,Plant A,Assembly Line 2,13.18,80.75,Background Noise,Clear signal,16.42,75.26,2.89,Morning,116
+22,Plant A,Assembly Line 2,6.82,97.25,Visible Leak,No comment,16.6,85.11,3.16,Night,101
+23,Plant B,Packaging Area,3.76,62.74,Micro Leak,Interference detected,22.1,87.06,0.78,Morning,119
+24,Plant B,Maintenance Area,15.65,112.29,Visible Leak,Needs verification,33.83,64.63,2.37,Morning,105
+25,Plant A,Assembly Line 2,7.93,118.41,Micro Leak,No comment,28.37,51.43,3.58,Night,107
+26,Plant A,Compressor Room,14.95,118.13,Micro Leak,Interference detected,28.57,77.25,1.35,Morning,115
+27,Plant A,Compressor Room,4.7,104.98,Visible Leak,Clear signal,22.24,45.06,1.01,Night,118
+28,Plant C,Assembly Line 1,12.55,67.81,Micro Leak,No comment,26.87,63.84,1.57,Afternoon,100
+29,Plant C,Assembly Line 2,13.78,105.5,Background Noise,Interference detected,15.2,51.51,1.21,Morning,102
+30,Plant C,Maintenance Area,2.24,61.48,Discharge,Possible leak,27.72,69.4,1.07,Afternoon,102
+31,Plant B,Packaging Area,9.08,61.33,Visible Leak,Possible leak,33.27,44.42,2.12,Afternoon,104
+32,Plant C,Packaging Area,4.23,79.42,Micro Leak,Needs verification,27.25,41.5,4.54,Morning,111
+33,Plant B,Maintenance Area,2.52,89.32,Visible Leak,Interference detected,32.47,85.09,2.54,Night,111
+34,Plant B,Storage Area,24.76,106.22,Background Noise,Possible leak,29.48,36.11,0.94,Morning,119
+35,Plant C,Assembly Line 1,8.74,101.0,Visible Leak,Clear signal,17.41,60.36,0.38,Afternoon,112
+36,Plant B,Packaging Area,20.44,86.75,Visible Leak,Interference detected,33.05,43.25,3.48,Afternoon,119
+37,Plant C,Assembly Line 2,7.11,76.42,Micro Leak,Clear signal,16.33,32.34,1.91,Night,108
+38,Plant C,Assembly Line 1,17.36,119.83,Background Noise,Clear signal,25.68,32.16,4.11,Morning,106
+39,Plant A,Assembly Line 2,19.25,85.57,Discharge,Possible leak,17.84,40.51,3.3,Afternoon,103
+40,Plant C,Compressor Room,15.3,87.08,Discharge,Interference detected,15.23,82.01,3.98,Afternoon,118
+41,Plant A,Assembly Line 1,12.32,69.82,Micro Leak,No comment,23.44,46.95,1.36,Afternoon,118
+42,Plant C,Packaging Area,10.88,107.69,Visible Leak,Possible leak,20.9,87.03,3.46,Night,105
+43,Plant C,Assembly Line 1,9.37,101.62,Micro Leak,Possible leak,24.72,64.9,1.32,Afternoon,112
+44,Plant A,Assembly Line 1,23.31,73.25,Micro Leak,Interference detected,26.54,56.2,4.7,Afternoon,110
+45,Plant A,Assembly Line 1,20.93,64.94,Micro Leak,Interference detected,15.87,64.81,3.18,Morning,112
+46,Plant C,Storage Area,24.16,100.83,Visible Leak,Clear signal,17.46,61.0,1.62,Morning,112
+47,Plant B,Assembly Line 1,3.98,99.27,Background Noise,Interference detected,26.17,75.53,1.35,Afternoon,119
+48,Plant A,Assembly Line 2,18.54,76.4,Micro Leak,Clear signal,21.86,46.95,0.95,Afternoon,114
+49,Plant B,Compressor Room,23.52,117.05,Visible Leak,Possible leak,29.58,51.18,3.47,Morning,112
+50,Plant B,Maintenance Area,5.35,69.06,Background Noise,Needs verification,28.05,83.65,1.09,Night,110
+51,Plant B,Assembly Line 1,2.6,85.94,Micro Leak,No comment,31.91,86.79,2.98,Night,118
+52,Plant A,Packaging Area,18.79,116.62,Discharge,Possible leak,28.85,83.55,1.32,Night,107
+53,Plant B,Assembly Line 1,14.79,85.18,Background Noise,Interference detected,23.6,55.17,3.31,Night,119
+54,Plant A,Packaging Area,21.2,98.31,Micro Leak,No comment,28.46,76.82,4.07,Night,107
+55,Plant B,Assembly Line 2,4.35,83.86,Background Noise,Needs verification,20.51,58.58,3.89,Night,109
+56,Plant C,Packaging Area,20.09,76.45,Background Noise,Needs verification,21.13,59.85,3.8,Night,115
+57,Plant C,Maintenance Area,5.84,119.04,Background Noise,Clear signal,30.78,42.28,0.94,Night,118
+58,Plant A,Compressor Room,4.93,84.56,Background Noise,No comment,23.93,65.47,0.44,Morning,110
+59,Plant C,Packaging Area,4.94,113.65,Background Noise,Clear signal,30.97,41.17,3.49,Night,112
+60,Plant C,Packaging Area,20.55,73.8,Background Noise,Possible leak,31.45,49.89,1.84,Night,108
+61,Plant B,Compressor Room,16.96,72.79,Micro Leak,No comment,32.15,81.3,2.16,Night,119
+62,Plant A,Maintenance Area,13.55,61.87,Discharge,Possible leak,33.33,42.42,0.16,Afternoon,118
+63,Plant B,Assembly Line 1,9.61,99.1,Visible Leak,Clear signal,23.62,34.27,1.3,Morning,115
+64,Plant B,Packaging Area,22.05,82.11,Background Noise,No comment,21.38,34.14,0.17,Morning,106
+65,Plant B,Compressor Room,10.42,111.86,Visible Leak,Clear signal,26.64,86.45,4.4,Morning,118
+66,Plant B,Assembly Line 2,20.6,88.39,Micro Leak,No comment,22.42,60.42,1.22,Night,111
+67,Plant B,Compressor Room,11.54,118.09,Background Noise,Clear signal,27.02,54.56,2.79,Night,114
+68,Plant B,Assembly Line 2,10.05,71.13,Discharge,Needs verification,29.11,78.65,0.19,Afternoon,113
+69,Plant B,Maintenance Area,12.1,112.12,Visible Leak,Clear signal,28.77,80.15,3.33,Morning,110
+70,Plant A,Assembly Line 1,8.23,106.6,Background Noise,Needs verification,22.49,49.93,1.62,Night,109
+71,Plant C,Compressor Room,18.94,106.26,Micro Leak,Clear signal,18.34,71.62,4.49,Morning,110
+72,Plant B,Storage Area,13.07,110.69,Discharge,No comment,23.61,76.27,4.44,Afternoon,105
+73,Plant B,Packaging Area,6.57,105.66,Visible Leak,No comment,17.85,69.28,1.63,Afternoon,101
+74,Plant B,Maintenance Area,22.59,97.57,Visible Leak,No comment,32.8,39.1,4.5,Afternoon,110
+75,Plant B,Compressor Room,10.21,67.87,Background Noise,Interference detected,21.92,82.55,4.98,Morning,118
+76,Plant B,Packaging Area,14.05,61.95,Discharge,Possible leak,18.09,62.35,4.13,Night,105
+77,Plant B,Compressor Room,22.76,115.25,Discharge,No comment,15.51,46.95,4.22,Night,113
+78,Plant C,Assembly Line 2,15.98,97.0,Discharge,Needs verification,27.92,55.51,1.25,Afternoon,119
+79,Plant C,Compressor Room,3.81,107.79,Discharge,No comment,27.74,32.25,2.88,Night,105
+80,Plant B,Storage Area,23.56,88.89,Micro Leak,Interference detected,21.81,37.67,0.34,Afternoon,116
+81,Plant C,Compressor Room,16.06,67.04,Discharge,Needs verification,16.43,75.93,0.47,Morning,109
+82,Plant A,Compressor Room,9.04,67.51,Visible Leak,Interference detected,23.19,30.0,4.99,Afternoon,100
+83,Plant B,Storage Area,4.34,101.13,Visible Leak,Needs verification,21.22,54.99,1.63,Morning,102
+84,Plant A,Maintenance Area,20.06,85.82,Micro Leak,Clear signal,28.54,61.35,3.74,Afternoon,107
+85,Plant A,Compressor Room,15.88,72.03,Visible Leak,Possible leak,27.12,33.28,4.03,Night,107
+86,Plant B,Storage Area,13.8,89.5,Visible Leak,Possible leak,22.29,88.38,4.29,Night,119
+87,Plant C,Packaging Area,22.45,63.85,Discharge,Interference detected,19.36,43.57,4.99,Afternoon,114
+88,Plant A,Assembly Line 2,19.93,94.92,Visible Leak,Possible leak,34.76,48.25,1.21,Night,106
+89,Plant B,Assembly Line 2,4.64,76.14,Micro Leak,Interference detected,24.08,48.24,0.2,Night,110
+90,Plant A,Compressor Room,8.48,107.85,Discharge,Interference detected,28.77,43.82,2.06,Night,106
+91,Plant A,Maintenance Area,6.96,78.62,Background Noise,Interference detected,17.81,30.09,0.65,Morning,103
+92,Plant A,Maintenance Area,18.85,87.31,Discharge,Possible leak,24.71,73.76,0.11,Night,111
+93,Plant A,Packaging Area,1.8,60.7,Micro Leak,Interference detected,15.55,88.01,1.8,Morning,105
+94,Plant C,Compressor Room,14.68,64.35,Discharge,Possible leak,25.11,43.46,3.92,Afternoon,113
+95,Plant A,Assembly Line 2,19.3,83.55,Discharge,Interference detected,34.28,69.78,2.83,Night,111
+96,Plant A,Maintenance Area,22.04,88.8,Micro Leak,No comment,22.68,74.51,1.56,Night,110
+97,Plant A,Compressor Room,9.21,96.0,Discharge,Interference detected,15.78,80.91,3.27,Night,118
+98,Plant C,Maintenance Area,20.71,77.5,Micro Leak,Needs verification,15.62,55.36,1.16,Afternoon,104
+99,Plant A,Storage Area,3.66,101.7,Micro Leak,Interference detected,22.76,48.18,0.07,Morning,113
+100,Plant A,Maintenance Area,21.31,111.61,Background Noise,Clear signal,18.2,49.52,3.82,Morning,115
+101,Plant C,Assembly Line 2,4.06,106.79,Visible Leak,Interference detected,15.47,72.76,3.12,Night,112
+102,Plant C,Assembly Line 1,10.53,62.38,Visible Leak,Needs verification,30.12,79.01,3.81,Afternoon,119
+103,Plant C,Packaging Area,20.14,88.83,Discharge,Needs verification,24.17,40.9,0.19,Afternoon,103
+104,Plant A,Packaging Area,4.6,66.3,Discharge,Possible leak,20.78,52.26,4.19,Afternoon,110
+105,Plant C,Assembly Line 2,6.5,74.52,Background Noise,No comment,33.0,84.12,3.1,Afternoon,116
+106,Plant C,Maintenance Area,18.33,119.2,Background Noise,Interference detected,17.32,78.4,2.82,Afternoon,106
+107,Plant A,Compressor Room,18.28,68.55,Background Noise,Possible leak,34.12,89.09,3.12,Morning,113
+108,Plant C,Maintenance Area,16.39,89.93,Micro Leak,No comment,21.28,75.25,4.32,Morning,110
+109,Plant A,Assembly Line 2,17.65,97.09,Background Noise,Interference detected,32.77,53.59,2.93,Morning,108
+110,Plant B,Packaging Area,14.03,102.15,Background Noise,Clear signal,27.06,65.44,2.9,Night,112
+111,Plant C,Maintenance Area,7.04,93.58,Discharge,Interference detected,31.53,69.66,4.95,Afternoon,117
+112,Plant B,Packaging Area,9.3,60.59,Background Noise,Needs verification,34.68,34.71,3.78,Night,110
+113,Plant A,Compressor Room,5.36,79.59,Micro Leak,Needs verification,20.77,62.67,2.21,Afternoon,114
+114,Plant C,Packaging Area,22.8,91.06,Micro Leak,Clear signal,34.22,72.56,3.54,Morning,118
+115,Plant A,Packaging Area,15.0,65.27,Discharge,Possible leak,22.79,40.04,1.95,Night,100
+116,Plant B,Assembly Line 1,10.62,81.04,Background Noise,No comment,22.71,76.84,1.14,Morning,103
+117,Plant A,Assembly Line 1,12.09,61.99,Background Noise,Interference detected,21.81,65.03,2.98,Afternoon,113
+118,Plant C,Storage Area,23.73,64.71,Micro Leak,Needs verification,25.83,87.13,4.64,Afternoon,113
+119,Plant C,Assembly Line 1,4.68,83.82,Background Noise,Possible leak,18.08,32.55,4.65,Afternoon,102
+120,Plant B,Packaging Area,15.07,67.96,Background Noise,Clear signal,26.07,45.92,1.71,Morning,116
+121,Plant A,Assembly Line 2,13.14,94.05,Background Noise,Needs verification,25.83,66.09,2.64,Afternoon,102
+122,Plant C,Packaging Area,15.67,101.37,Visible Leak,Clear signal,30.24,47.79,1.06,Morning,115
+123,Plant B,Assembly Line 2,1.43,108.04,Discharge,Interference detected,31.67,72.87,4.98,Night,113
+124,Plant C,Assembly Line 2,21.93,72.01,Visible Leak,No comment,23.81,75.54,4.91,Afternoon,119
+125,Plant C,Assembly Line 1,23.37,70.05,Discharge,Needs verification,21.05,36.15,3.25,Afternoon,112
+126,Plant A,Maintenance Area,14.56,66.27,Micro Leak,Needs verification,20.19,60.83,4.02,Afternoon,114
+127,Plant C,Compressor Room,17.72,98.19,Background Noise,Interference detected,18.89,60.53,3.58,Night,113
+128,Plant A,Assembly Line 1,23.14,102.39,Discharge,Possible leak,16.15,52.16,2.97,Afternoon,118
+129,Plant C,Assembly Line 1,17.97,61.9,Visible Leak,No comment,21.85,85.98,0.27,Morning,105
+130,Plant B,Maintenance Area,4.66,116.17,Background Noise,Needs verification,20.4,79.65,2.27,Morning,109
+131,Plant C,Compressor Room,14.83,63.12,Micro Leak,No comment,34.33,71.83,3.37,Afternoon,114
+132,Plant A,Packaging Area,15.56,92.48,Discharge,Needs verification,26.15,72.86,3.39,Afternoon,119
+133,Plant A,Storage Area,11.18,102.54,Discharge,No comment,21.95,57.7,1.87,Night,105
+134,Plant B,Storage Area,18.67,112.26,Discharge,Clear signal,26.61,85.26,4.71,Night,109
+135,Plant C,Packaging Area,23.42,102.85,Background Noise,Needs verification,17.78,71.68,0.84,Night,106
+136,Plant C,Assembly Line 1,23.21,108.1,Visible Leak,No comment,23.88,73.74,2.5,Afternoon,116
+137,Plant B,Compressor Room,11.82,80.37,Visible Leak,Possible leak,27.52,81.7,3.45,Night,117
+138,Plant C,Assembly Line 1,3.72,108.89,Discharge,Clear signal,24.78,46.44,3.49,Night,116
+139,Plant C,Assembly Line 2,24.64,64.81,Micro Leak,Clear signal,23.04,78.42,3.24,Morning,108
+140,Plant A,Assembly Line 1,21.13,113.69,Micro Leak,Possible leak,34.88,41.71,1.38,Night,109
+141,Plant C,Assembly Line 1,3.99,92.86,Visible Leak,No comment,32.61,50.72,0.78,Morning,109
+142,Plant C,Packaging Area,23.1,109.04,Micro Leak,Interference detected,27.47,50.14,3.18,Morning,106
+143,Plant B,Packaging Area,21.88,87.14,Visible Leak,Possible leak,26.39,88.71,3.0,Night,115
+144,Plant B,Packaging Area,13.45,98.61,Discharge,No comment,27.41,81.39,0.9,Morning,117
+145,Plant A,Storage Area,15.19,91.58,Visible Leak,Possible leak,19.03,72.07,3.53,Afternoon,105
+146,Plant C,Assembly Line 2,10.58,103.9,Visible Leak,Possible leak,22.9,73.62,2.28,Afternoon,119
+147,Plant C,Packaging Area,2.31,64.9,Discharge,Needs verification,15.79,63.72,3.34,Night,100
+148,Plant C,Compressor Room,9.04,63.62,Micro Leak,No comment,24.51,86.83,4.19,Afternoon,100
+149,Plant A,Storage Area,20.27,74.83,Visible Leak,Interference detected,25.86,59.78,0.85,Morning,111
+150,Plant A,Maintenance Area,1.11,69.57,Visible Leak,Needs verification,19.55,52.83,0.1,Afternoon,101
+151,Plant B,Compressor Room,9.0,112.31,Discharge,Possible leak,34.28,39.78,3.9,Night,103
+152,Plant A,Compressor Room,10.56,73.15,Micro Leak,Possible leak,33.19,77.17,3.05,Night,116
+153,Plant C,Packaging Area,13.9,118.55,Visible Leak,Possible leak,29.44,74.07,3.5,Morning,103
+154,Plant C,Maintenance Area,23.08,80.21,Discharge,No comment,25.67,53.06,4.19,Night,110
+155,Plant A,Maintenance Area,9.31,70.93,Visible Leak,No comment,32.4,31.51,4.01,Afternoon,103
+156,Plant C,Storage Area,9.33,107.38,Background Noise,Needs verification,17.61,80.34,4.8,Night,100
+157,Plant C,Maintenance Area,18.7,99.52,Discharge,Interference detected,30.81,30.69,2.68,Morning,106
+158,Plant A,Assembly Line 2,11.85,89.89,Micro Leak,Needs verification,17.5,72.22,2.44,Night,117
+159,Plant A,Packaging Area,6.39,93.32,Micro Leak,Clear signal,30.88,88.22,2.01,Afternoon,108
+160,Plant C,Maintenance Area,11.86,103.15,Micro Leak,Possible leak,20.52,56.26,0.77,Morning,102
+161,Plant C,Storage Area,4.38,73.71,Micro Leak,Possible leak,32.54,44.1,2.86,Afternoon,107
+162,Plant C,Assembly Line 2,5.23,119.78,Visible Leak,Possible leak,33.88,72.29,1.39,Morning,118
+163,Plant B,Assembly Line 1,12.96,118.49,Visible Leak,Needs verification,17.98,79.03,4.61,Night,103
+164,Plant B,Assembly Line 1,11.05,99.02,Micro Leak,Needs verification,24.25,62.79,2.92,Morning,117
+165,Plant B,Assembly Line 2,22.96,71.97,Micro Leak,Possible leak,34.62,88.02,2.96,Morning,119
+166,Plant A,Storage Area,9.7,100.81,Micro Leak,Needs verification,24.67,33.1,1.77,Night,110
+167,Plant B,Assembly Line 2,14.93,64.33,Visible Leak,No comment,32.27,60.29,0.26,Afternoon,113
+168,Plant A,Packaging Area,16.17,61.84,Micro Leak,No comment,26.77,73.11,0.16,Night,117
+169,Plant A,Packaging Area,1.31,75.46,Micro Leak,Needs verification,22.51,81.76,2.12,Morning,115
+170,Plant B,Assembly Line 1,16.92,87.76,Background Noise,Possible leak,20.72,40.76,0.42,Night,102
+171,Plant B,Maintenance Area,5.27,112.1,Background Noise,Needs verification,19.06,78.0,3.03,Morning,114
+172,Plant B,Storage Area,24.07,103.63,Micro Leak,Needs verification,30.24,63.16,4.4,Night,103
+173,Plant C,Assembly Line 1,4.57,104.56,Discharge,Needs verification,22.73,53.79,4.41,Night,104
+174,Plant B,Maintenance Area,10.95,85.53,Micro Leak,Clear signal,25.23,37.9,3.3,Afternoon,116
+175,Plant C,Maintenance Area,3.05,80.76,Background Noise,No comment,24.85,81.92,1.06,Morning,106
+176,Plant A,Packaging Area,24.92,82.26,Discharge,Interference detected,26.55,39.44,4.31,Afternoon,115
+177,Plant C,Compressor Room,13.05,119.26,Discharge,Interference detected,32.31,48.59,4.43,Morning,113
+178,Plant B,Compressor Room,15.29,62.41,Micro Leak,Clear signal,34.61,47.4,0.98,Night,115
+179,Plant A,Assembly Line 2,2.61,112.02,Background Noise,Needs verification,23.15,82.28,3.69,Morning,106
+180,Plant A,Packaging Area,19.0,94.72,Background Noise,Clear signal,31.55,70.36,1.43,Afternoon,108
+181,Plant A,Maintenance Area,6.04,86.32,Discharge,Clear signal,30.29,77.8,4.01,Afternoon,103
+182,Plant C,Storage Area,22.55,103.52,Micro Leak,Possible leak,26.47,45.03,4.99,Afternoon,110
+183,Plant B,Compressor Room,5.92,89.2,Visible Leak,No comment,34.12,67.49,0.15,Morning,101
+184,Plant A,Maintenance Area,5.58,112.41,Visible Leak,Interference detected,19.01,64.3,4.49,Afternoon,111
+185,Plant A,Compressor Room,1.88,114.04,Background Noise,Needs verification,17.19,79.97,3.11,Afternoon,111
+186,Plant A,Compressor Room,12.33,85.3,Visible Leak,Interference detected,32.08,84.37,4.87,Afternoon,103
+187,Plant C,Compressor Room,14.56,76.61,Background Noise,Interference detected,23.78,30.73,2.33,Night,117
+188,Plant C,Storage Area,2.58,95.54,Background Noise,No comment,31.94,70.44,4.24,Night,106
+189,Plant B,Packaging Area,19.61,114.74,Background Noise,Interference detected,32.86,33.11,0.31,Morning,100
+190,Plant C,Storage Area,11.88,72.64,Visible Leak,Interference detected,16.25,62.93,1.68,Morning,112
+191,Plant A,Assembly Line 1,13.59,97.38,Background Noise,Clear signal,32.67,47.26,0.34,Afternoon,105
+192,Plant B,Maintenance Area,11.58,97.89,Discharge,No comment,23.97,48.41,4.88,Night,105
+193,Plant A,Packaging Area,10.62,103.99,Micro Leak,Possible leak,25.21,51.18,4.08,Afternoon,111
+194,Plant A,Packaging Area,14.43,67.89,Micro Leak,Needs verification,27.53,67.28,4.26,Afternoon,107
+195,Plant C,Packaging Area,4.73,102.95,Background Noise,Interference detected,33.53,50.04,4.69,Night,118
+196,Plant B,Packaging Area,5.37,114.54,Micro Leak,Needs verification,15.38,73.96,0.43,Night,104
+197,Plant C,Storage Area,21.68,70.78,Visible Leak,Possible leak,24.54,54.27,1.93,Night,117
+198,Plant C,Packaging Area,23.71,74.25,Visible Leak,Needs verification,28.75,34.1,0.36,Morning,104
+199,Plant B,Assembly Line 2,9.96,118.28,Micro Leak,Possible leak,29.45,77.03,1.05,Morning,109
+200,Plant A,Maintenance Area,7.5,70.86,Visible Leak,Clear signal,28.85,47.15,1.15,Afternoon,100
+201,Plant A,Packaging Area,16.46,111.26,Micro Leak,Interference detected,17.69,55.97,2.35,Morning,109
+202,Plant B,Maintenance Area,10.81,89.54,Micro Leak,Possible leak,20.99,71.13,1.34,Night,104
+203,Plant A,Assembly Line 2,1.61,74.83,Micro Leak,Needs verification,22.17,49.95,0.5,Night,111
+204,Plant B,Assembly Line 2,4.75,112.24,Background Noise,Interference detected,31.09,33.4,0.84,Morning,106
+205,Plant B,Maintenance Area,18.18,86.72,Micro Leak,Clear signal,20.58,52.44,0.74,Afternoon,108
+206,Plant C,Compressor Room,16.81,90.89,Background Noise,Interference detected,19.21,86.67,4.87,Afternoon,111
+207,Plant B,Assembly Line 1,1.65,81.55,Micro Leak,Possible leak,34.15,68.5,3.8,Morning,100
+208,Plant C,Compressor Room,6.33,95.58,Micro Leak,Clear signal,15.18,70.29,4.84,Afternoon,110
+209,Plant A,Compressor Room,6.55,69.81,Micro Leak,Needs verification,34.96,67.94,2.2,Afternoon,114
+210,Plant A,Storage Area,17.13,83.46,Visible Leak,Clear signal,28.54,41.94,1.39,Afternoon,101
+211,Plant A,Compressor Room,1.47,118.16,Background Noise,Clear signal,31.57,55.1,3.99,Night,119
+212,Plant A,Packaging Area,3.5,75.49,Background Noise,No comment,20.89,75.06,1.63,Night,106
+213,Plant C,Storage Area,20.2,99.4,Micro Leak,Clear signal,15.29,36.08,1.5,Morning,111
+214,Plant A,Storage Area,5.29,79.51,Micro Leak,Clear signal,29.76,46.67,1.16,Night,117
+215,Plant B,Assembly Line 2,16.67,106.41,Visible Leak,Interference detected,31.68,46.58,0.65,Afternoon,102
+216,Plant B,Compressor Room,6.72,67.85,Visible Leak,Needs verification,29.81,55.92,1.28,Night,106
+217,Plant B,Assembly Line 2,3.39,118.19,Visible Leak,Interference detected,17.86,88.82,1.78,Morning,110
+218,Plant C,Maintenance Area,6.84,87.23,Background Noise,Interference detected,30.07,34.05,3.37,Night,117
+219,Plant A,Assembly Line 1,18.33,74.16,Background Noise,Possible leak,30.38,61.12,0.31,Afternoon,111
+220,Plant A,Storage Area,21.54,64.41,Background Noise,Interference detected,28.17,40.76,1.05,Afternoon,105
+221,Plant A,Maintenance Area,20.93,70.19,Micro Leak,No comment,30.32,88.24,4.05,Morning,104
+222,Plant C,Maintenance Area,10.53,91.19,Background Noise,No comment,31.92,36.8,0.73,Night,100
+223,Plant B,Packaging Area,17.03,80.22,Discharge,Possible leak,27.27,54.22,1.71,Night,111
+224,Plant B,Assembly Line 1,5.92,109.73,Discharge,Needs verification,16.77,74.27,4.32,Night,110
+225,Plant A,Maintenance Area,8.04,85.85,Visible Leak,Needs verification,24.75,72.27,0.77,Afternoon,103
+226,Plant B,Maintenance Area,22.51,74.92,Background Noise,Interference detected,16.55,55.36,0.41,Morning,117
+227,Plant B,Assembly Line 1,1.31,97.03,Discharge,Interference detected,23.15,50.79,2.42,Night,103
+228,Plant C,Assembly Line 1,3.05,102.41,Visible Leak,Interference detected,23.14,53.86,1.51,Afternoon,116
+229,Plant C,Maintenance Area,5.99,70.02,Background Noise,Needs verification,16.32,45.86,2.82,Afternoon,101
+230,Plant C,Assembly Line 1,1.64,70.06,Micro Leak,Clear signal,21.98,42.32,4.02,Afternoon,101
+231,Plant C,Maintenance Area,5.35,62.2,Discharge,No comment,17.22,58.98,0.69,Night,111
+232,Plant A,Maintenance Area,14.99,104.18,Micro Leak,Clear signal,31.16,46.11,2.9,Night,105
+233,Plant C,Packaging Area,11.11,99.83,Background Noise,Clear signal,33.95,47.25,2.53,Night,109
+234,Plant B,Compressor Room,22.42,88.48,Discharge,Needs verification,16.45,69.41,0.72,Night,115
+235,Plant A,Maintenance Area,20.62,110.65,Background Noise,Clear signal,34.1,88.11,3.12,Night,113
+236,Plant B,Assembly Line 2,9.2,108.34,Micro Leak,Possible leak,25.45,66.22,1.37,Night,106
+237,Plant B,Storage Area,7.23,95.12,Discharge,Interference detected,20.99,34.62,2.44,Night,118
+238,Plant B,Compressor Room,10.11,112.1,Micro Leak,Possible leak,16.54,34.54,0.41,Night,116
+239,Plant C,Compressor Room,15.17,72.35,Background Noise,No comment,25.01,87.09,2.3,Night,108
+240,Plant C,Compressor Room,7.43,66.72,Background Noise,Interference detected,30.89,47.84,1.53,Afternoon,112
+241,Plant A,Packaging Area,15.98,76.18,Micro Leak,Clear signal,29.14,35.52,4.11,Night,104
+242,Plant A,Maintenance Area,10.83,63.43,Discharge,No comment,16.0,65.94,0.28,Morning,104
+243,Plant C,Packaging Area,14.25,91.87,Micro Leak,Interference detected,16.46,67.42,2.09,Afternoon,109
+244,Plant B,Maintenance Area,11.47,116.2,Background Noise,Clear signal,23.06,68.91,2.29,Night,109
+245,Plant A,Packaging Area,8.07,62.36,Micro Leak,Possible leak,20.91,46.04,3.63,Morning,106
+246,Plant C,Packaging Area,23.76,67.33,Background Noise,Interference detected,19.65,30.91,2.87,Night,114
+247,Plant C,Storage Area,19.33,87.13,Micro Leak,Clear signal,20.62,87.9,3.34,Morning,106
+248,Plant C,Assembly Line 2,4.36,116.03,Discharge,Possible leak,31.07,45.05,3.89,Morning,114
+249,Plant B,Packaging Area,21.84,78.97,Discharge,No comment,33.58,70.56,4.31,Morning,102
+250,Plant C,Storage Area,12.7,90.43,Micro Leak,No comment,23.1,72.4,1.57,Morning,118
+251,Plant C,Assembly Line 1,22.47,62.49,Micro Leak,No comment,33.12,66.6,2.69,Afternoon,109
+252,Plant C,Assembly Line 2,20.2,68.9,Discharge,No comment,21.43,48.77,4.2,Afternoon,114
+253,Plant C,Packaging Area,11.21,119.2,Background Noise,Needs verification,24.53,46.27,4.95,Morning,102
+254,Plant A,Compressor Room,1.54,117.91,Discharge,Interference detected,19.52,65.86,4.45,Night,105
+255,Plant A,Assembly Line 1,7.45,60.3,Background Noise,Interference detected,27.81,81.97,1.86,Morning,111
+256,Plant C,Assembly Line 1,14.0,117.11,Micro Leak,Needs verification,34.58,86.8,0.98,Afternoon,114
+257,Plant B,Storage Area,16.2,98.35,Micro Leak,Clear signal,27.07,36.35,2.45,Night,105
+258,Plant A,Assembly Line 1,7.19,112.08,Background Noise,Clear signal,22.16,39.29,3.71,Afternoon,112
+259,Plant C,Assembly Line 2,4.34,87.28,Micro Leak,No comment,27.96,86.68,2.46,Afternoon,118
+260,Plant A,Packaging Area,21.04,90.94,Background Noise,Possible leak,17.46,74.19,2.42,Night,102
+261,Plant A,Packaging Area,24.63,89.33,Visible Leak,Clear signal,32.77,82.98,4.19,Morning,107
+262,Plant B,Compressor Room,13.62,100.01,Discharge,Possible leak,25.06,42.16,1.81,Morning,107
+263,Plant C,Storage Area,5.12,68.38,Visible Leak,Interference detected,23.99,65.26,4.3,Morning,119
+264,Plant C,Compressor Room,7.54,61.8,Background Noise,Possible leak,26.72,72.07,2.03,Morning,114
+265,Plant B,Assembly Line 1,1.44,78.48,Discharge,Interference detected,27.5,70.81,1.64,Night,103
+266,Plant B,Compressor Room,22.94,102.28,Background Noise,Needs verification,16.44,54.49,2.27,Night,118
+267,Plant C,Assembly Line 2,3.83,72.11,Discharge,Needs verification,28.65,30.92,3.81,Night,102
+268,Plant C,Packaging Area,14.84,100.41,Discharge,No comment,19.84,64.98,0.63,Afternoon,112
+269,Plant B,Assembly Line 1,7.58,118.19,Discharge,Clear signal,29.28,45.19,0.98,Night,107
+270,Plant A,Compressor Room,14.3,65.63,Discharge,No comment,31.45,57.02,4.76,Morning,115
+271,Plant A,Storage Area,16.63,100.36,Background Noise,Interference detected,31.08,87.45,0.88,Afternoon,112
+272,Plant B,Assembly Line 2,20.91,86.63,Discharge,No comment,26.05,53.94,2.84,Morning,102
+273,Plant A,Assembly Line 2,5.95,112.09,Discharge,Possible leak,25.4,80.39,2.9,Morning,115
+274,Plant B,Compressor Room,1.26,70.63,Visible Leak,Interference detected,17.86,41.31,2.45,Night,108
+275,Plant A,Packaging Area,4.29,101.56,Micro Leak,Needs verification,30.51,70.35,3.22,Night,113
+276,Plant A,Compressor Room,22.6,110.29,Micro Leak,Clear signal,20.43,88.62,1.15,Morning,112
+277,Plant C,Assembly Line 1,21.97,116.68,Visible Leak,Interference detected,24.93,36.11,2.76,Morning,106
+278,Plant C,Compressor Room,15.34,100.99,Visible Leak,Interference detected,20.69,30.5,1.86,Afternoon,114
+279,Plant A,Assembly Line 2,15.41,89.83,Background Noise,Possible leak,17.68,56.01,3.31,Night,106
+280,Plant A,Compressor Room,16.96,97.07,Background Noise,Clear signal,27.59,35.56,0.71,Afternoon,105
+281,Plant C,Packaging Area,5.21,112.13,Background Noise,Needs verification,16.09,74.9,2.85,Afternoon,101
+282,Plant C,Storage Area,22.95,94.24,Visible Leak,Interference detected,29.97,84.87,0.93,Afternoon,108
+283,Plant C,Maintenance Area,11.05,61.82,Visible Leak,Interference detected,21.35,56.04,1.39,Morning,116
+284,Plant B,Compressor Room,10.2,115.86,Discharge,Possible leak,15.0,45.52,1.09,Afternoon,104
+285,Plant A,Packaging Area,13.45,101.37,Background Noise,No comment,25.22,56.06,0.91,Afternoon,111
+286,Plant C,Packaging Area,2.13,100.59,Background Noise,Needs verification,15.94,73.41,4.13,Morning,100
+287,Plant A,Storage Area,4.99,72.94,Background Noise,Clear signal,20.52,30.54,1.43,Night,109
+288,Plant B,Assembly Line 2,18.71,99.53,Micro Leak,Interference detected,29.14,65.37,4.64,Night,110
+289,Plant B,Packaging Area,2.99,83.63,Discharge,Interference detected,16.25,66.8,4.85,Afternoon,115
+290,Plant C,Packaging Area,15.48,99.07,Background Noise,Needs verification,31.79,68.26,2.86,Morning,113
+291,Plant B,Packaging Area,6.89,66.4,Background Noise,No comment,15.08,44.52,0.72,Night,107
+292,Plant A,Packaging Area,10.34,99.47,Background Noise,Interference detected,19.94,72.84,1.87,Afternoon,116
+293,Plant C,Assembly Line 1,7.93,119.96,Micro Leak,Needs verification,29.82,35.48,3.99,Afternoon,117
+294,Plant A,Assembly Line 1,9.54,62.89,Micro Leak,Possible leak,21.33,41.96,1.84,Morning,111
+295,Plant A,Assembly Line 2,18.26,118.63,Visible Leak,No comment,17.04,82.65,0.44,Afternoon,116
+296,Plant B,Compressor Room,8.13,84.41,Discharge,Clear signal,22.2,74.32,2.78,Night,113
+297,Plant B,Packaging Area,14.59,112.25,Visible Leak,Interference detected,20.41,30.82,4.23,Morning,115
+298,Plant B,Storage Area,12.43,106.94,Discharge,Needs verification,31.85,44.9,3.98,Night,113
+299,Plant B,Compressor Room,16.93,94.02,Micro Leak,Possible leak,21.27,42.86,0.88,Night,108
+300,Plant B,Storage Area,23.48,104.31,Background Noise,Clear signal,30.78,46.25,3.36,Night,103
+301,Plant C,Compressor Room,18.58,112.71,Visible Leak,Needs verification,32.84,44.85,1.1,Afternoon,110
+302,Plant A,Assembly Line 2,6.16,84.25,Background Noise,Needs verification,23.68,33.75,1.09,Afternoon,105
+303,Plant A,Packaging Area,1.75,79.62,Visible Leak,Clear signal,33.2,57.54,4.37,Night,114
+304,Plant A,Packaging Area,7.29,100.06,Micro Leak,Possible leak,22.55,73.96,1.25,Night,104
+305,Plant A,Maintenance Area,15.28,108.47,Micro Leak,Possible leak,34.28,66.4,1.32,Morning,110
+306,Plant B,Storage Area,2.23,105.74,Micro Leak,No comment,16.79,70.37,0.0,Morning,117
+307,Plant A,Compressor Room,12.91,107.87,Visible Leak,Interference detected,28.74,34.87,4.35,Afternoon,112
+308,Plant C,Compressor Room,15.32,86.13,Discharge,Clear signal,24.88,87.09,3.96,Afternoon,110
+309,Plant C,Assembly Line 1,9.02,109.07,Visible Leak,Clear signal,22.75,80.31,3.14,Morning,113
+310,Plant A,Maintenance Area,19.5,67.21,Discharge,Clear signal,27.65,78.31,3.75,Night,117
+311,Plant A,Assembly Line 1,3.56,92.67,Visible Leak,Possible leak,29.08,79.38,0.76,Afternoon,118
+312,Plant C,Assembly Line 1,2.8,60.35,Visible Leak,Interference detected,15.09,85.96,2.29,Night,114
+313,Plant C,Assembly Line 1,18.48,79.48,Micro Leak,No comment,18.34,62.66,1.76,Morning,108
+314,Plant B,Storage Area,12.89,81.99,Background Noise,Needs verification,29.26,42.02,0.47,Afternoon,107
+315,Plant C,Storage Area,17.52,83.77,Background Noise,Needs verification,28.33,67.01,2.43,Afternoon,119
+316,Plant B,Assembly Line 2,11.44,101.73,Discharge,Clear signal,34.32,74.57,4.6,Morning,100
+317,Plant B,Assembly Line 2,6.91,83.31,Background Noise,Interference detected,30.22,74.28,0.2,Afternoon,103
+318,Plant B,Assembly Line 1,20.66,86.92,Visible Leak,Possible leak,34.02,61.29,1.46,Morning,113
+319,Plant B,Maintenance Area,20.19,74.25,Visible Leak,Interference detected,29.05,34.11,1.04,Afternoon,101
+320,Plant B,Compressor Room,17.67,82.4,Micro Leak,Interference detected,20.96,52.27,1.19,Morning,115
+321,Plant A,Storage Area,7.53,73.64,Micro Leak,Possible leak,17.11,85.25,4.54,Afternoon,102
+322,Plant C,Maintenance Area,15.17,64.39,Background Noise,Clear signal,30.64,65.07,2.34,Night,107
+323,Plant B,Packaging Area,9.66,96.21,Discharge,Interference detected,27.88,62.3,2.33,Night,105
+324,Plant C,Storage Area,3.2,100.09,Background Noise,Needs verification,15.96,46.13,3.8,Night,115
+325,Plant C,Storage Area,23.02,97.17,Background Noise,Possible leak,22.2,52.11,0.77,Afternoon,115
+326,Plant B,Assembly Line 2,4.28,87.81,Background Noise,No comment,34.14,83.72,2.44,Afternoon,106
+327,Plant A,Compressor Room,23.81,82.79,Background Noise,Clear signal,25.01,69.99,2.15,Night,112
+328,Plant B,Compressor Room,11.7,111.8,Visible Leak,Possible leak,23.65,77.24,2.98,Night,112
+329,Plant A,Packaging Area,5.44,91.14,Discharge,No comment,24.15,57.26,5.0,Morning,104
+330,Plant C,Packaging Area,14.01,88.75,Visible Leak,No comment,19.18,67.81,3.85,Morning,119
+331,Plant A,Storage Area,21.95,61.54,Discharge,Interference detected,22.37,44.9,1.99,Morning,117
+332,Plant A,Assembly Line 1,18.57,80.47,Micro Leak,Interference detected,22.4,72.33,4.14,Night,114
+333,Plant A,Assembly Line 2,20.36,82.81,Background Noise,Interference detected,16.05,55.66,0.85,Night,117
+334,Plant C,Assembly Line 2,16.81,83.93,Visible Leak,Possible leak,30.35,56.55,0.15,Night,101
+335,Plant C,Storage Area,17.61,94.81,Discharge,Possible leak,23.33,68.96,1.02,Morning,109
+336,Plant A,Maintenance Area,21.38,92.02,Micro Leak,Clear signal,31.44,86.18,1.7,Afternoon,112
+337,Plant A,Assembly Line 1,6.99,96.47,Micro Leak,Interference detected,32.01,33.84,2.55,Night,117
+338,Plant B,Storage Area,12.75,105.89,Background Noise,No comment,19.24,79.48,3.08,Afternoon,114
+339,Plant A,Assembly Line 1,6.31,108.78,Discharge,Needs verification,28.15,47.54,4.55,Afternoon,111
+340,Plant B,Assembly Line 1,24.7,103.09,Visible Leak,Clear signal,24.45,56.64,2.55,Afternoon,114
+341,Plant A,Assembly Line 1,23.66,117.33,Background Noise,Possible leak,32.6,31.31,2.51,Morning,112
+342,Plant B,Storage Area,1.95,61.09,Visible Leak,Clear signal,19.31,48.06,0.25,Afternoon,117
+343,Plant C,Assembly Line 2,17.93,71.75,Micro Leak,Clear signal,28.56,60.16,0.17,Night,114
+344,Plant A,Assembly Line 2,23.21,60.45,Visible Leak,Clear signal,27.16,33.37,2.76,Morning,110
+345,Plant A,Assembly Line 1,5.33,98.85,Visible Leak,Clear signal,20.91,59.47,2.19,Night,118
+346,Plant A,Maintenance Area,14.63,113.88,Background Noise,Needs verification,17.73,85.63,4.2,Night,102
+347,Plant A,Compressor Room,22.97,74.61,Visible Leak,Interference detected,28.03,36.32,0.8,Morning,106
+348,Plant B,Storage Area,1.81,115.62,Background Noise,No comment,29.77,75.87,0.12,Night,113
+349,Plant A,Compressor Room,17.74,63.62,Micro Leak,Clear signal,21.31,54.58,2.25,Night,113
+350,Plant C,Maintenance Area,8.14,116.07,Background Noise,Clear signal,27.9,69.31,1.19,Morning,112
+351,Plant C,Storage Area,23.19,81.1,Background Noise,Clear signal,22.9,45.61,0.25,Night,111
+352,Plant A,Assembly Line 1,24.31,66.09,Discharge,Interference detected,29.26,39.57,3.62,Afternoon,108
+353,Plant C,Assembly Line 2,23.66,89.15,Visible Leak,Possible leak,18.98,39.63,0.56,Night,100
+354,Plant A,Compressor Room,12.38,75.41,Micro Leak,Possible leak,32.8,34.23,3.04,Afternoon,118
+355,Plant A,Packaging Area,21.69,77.09,Background Noise,Needs verification,20.75,41.14,1.41,Night,110
+356,Plant C,Packaging Area,21.27,78.44,Micro Leak,Possible leak,22.36,69.85,0.87,Morning,118
+357,Plant A,Maintenance Area,8.66,108.18,Discharge,Clear signal,16.16,82.9,1.9,Morning,117
+358,Plant C,Assembly Line 1,20.89,92.35,Visible Leak,Clear signal,17.23,78.85,4.01,Night,111
+359,Plant B,Compressor Room,1.89,78.68,Background Noise,Clear signal,25.32,71.11,1.96,Morning,100
+360,Plant A,Assembly Line 1,15.31,96.62,Visible Leak,Needs verification,20.35,36.63,3.75,Night,118
+361,Plant B,Compressor Room,6.52,102.97,Discharge,Clear signal,31.71,47.35,0.63,Morning,119
+362,Plant C,Maintenance Area,3.89,76.36,Discharge,Possible leak,15.29,48.59,3.86,Afternoon,116
+363,Plant B,Maintenance Area,2.85,84.81,Micro Leak,Interference detected,22.58,45.0,1.18,Night,104
+364,Plant B,Packaging Area,17.71,67.31,Background Noise,Interference detected,21.75,60.9,3.39,Afternoon,102
+365,Plant C,Assembly Line 1,9.16,70.87,Micro Leak,No comment,15.39,62.13,2.83,Afternoon,101
+366,Plant B,Storage Area,18.39,100.87,Discharge,Possible leak,17.49,51.41,4.65,Night,102
+367,Plant B,Packaging Area,2.57,70.89,Visible Leak,Clear signal,23.27,51.23,1.94,Afternoon,107
+368,Plant C,Assembly Line 1,8.57,91.51,Micro Leak,Interference detected,24.86,79.71,0.33,Night,115
+369,Plant B,Packaging Area,13.95,102.54,Micro Leak,Possible leak,23.09,77.36,0.1,Afternoon,105
+370,Plant C,Storage Area,19.98,66.41,Visible Leak,Interference detected,25.62,48.47,4.13,Night,112
+371,Plant B,Assembly Line 2,8.65,94.04,Micro Leak,Clear signal,26.9,84.83,2.62,Night,115
+372,Plant C,Assembly Line 2,16.02,75.39,Visible Leak,Interference detected,15.2,87.17,3.88,Morning,115
+373,Plant C,Assembly Line 2,22.26,117.78,Background Noise,No comment,24.28,49.6,1.17,Night,102
+374,Plant B,Assembly Line 2,15.78,89.01,Visible Leak,No comment,34.27,51.27,1.73,Night,112
+375,Plant B,Compressor Room,6.59,108.36,Background Noise,Interference detected,25.38,60.34,0.15,Afternoon,113
+376,Plant B,Assembly Line 2,1.59,93.01,Visible Leak,Possible leak,28.55,86.47,4.81,Night,107
+377,Plant A,Storage Area,21.88,62.6,Discharge,Possible leak,21.24,82.58,3.34,Morning,111
+378,Plant A,Maintenance Area,1.51,97.99,Discharge,Possible leak,30.48,36.15,4.67,Afternoon,107
+379,Plant A,Maintenance Area,21.99,117.08,Background Noise,Interference detected,30.46,53.56,1.33,Afternoon,108
+380,Plant C,Compressor Room,13.69,96.1,Background Noise,Possible leak,25.43,63.2,3.06,Morning,100
+381,Plant B,Assembly Line 2,23.54,109.15,Discharge,Clear signal,34.52,60.19,3.39,Afternoon,105
+382,Plant C,Assembly Line 2,20.17,113.05,Background Noise,No comment,17.51,41.63,1.59,Afternoon,118
+383,Plant A,Assembly Line 2,24.95,73.68,Visible Leak,Clear signal,15.34,81.53,4.24,Afternoon,110
+384,Plant B,Packaging Area,9.42,72.72,Visible Leak,Possible leak,30.4,70.62,4.74,Afternoon,110
+385,Plant C,Assembly Line 1,19.41,96.66,Discharge,Clear signal,31.14,80.27,4.42,Morning,112
+386,Plant B,Packaging Area,10.65,84.66,Micro Leak,Possible leak,17.4,81.53,3.7,Morning,110
+387,Plant C,Assembly Line 1,12.52,110.39,Visible Leak,Interference detected,20.31,74.9,1.39,Afternoon,117
+388,Plant B,Assembly Line 2,16.06,114.0,Background Noise,Clear signal,15.35,56.35,1.41,Afternoon,114
+389,Plant A,Assembly Line 2,21.97,81.21,Micro Leak,Interference detected,20.87,66.63,4.82,Morning,100
+390,Plant A,Packaging Area,24.62,74.21,Micro Leak,Interference detected,30.46,39.62,0.05,Morning,106
+391,Plant B,Packaging Area,19.44,106.83,Visible Leak,Needs verification,25.36,70.42,3.58,Morning,112
+392,Plant C,Assembly Line 1,11.03,76.49,Visible Leak,Possible leak,21.96,40.76,3.53,Afternoon,111
+393,Plant A,Maintenance Area,11.11,109.36,Micro Leak,No comment,22.43,71.64,3.11,Afternoon,117
+394,Plant A,Assembly Line 1,18.7,85.42,Micro Leak,Possible leak,15.03,43.78,4.95,Night,118
+395,Plant A,Packaging Area,6.73,100.05,Discharge,No comment,21.0,37.05,1.56,Morning,114
+396,Plant B,Storage Area,3.65,65.73,Background Noise,Possible leak,27.93,39.92,1.7,Afternoon,107
+397,Plant B,Packaging Area,9.51,97.43,Discharge,Interference detected,34.48,30.12,0.39,Morning,118
+398,Plant C,Storage Area,7.89,87.11,Visible Leak,Clear signal,31.94,73.12,2.21,Afternoon,109
+399,Plant C,Compressor Room,8.11,95.2,Discharge,Clear signal,15.47,73.94,1.31,Morning,106
+400,Plant C,Packaging Area,6.61,70.08,Discharge,Needs verification,32.97,60.9,1.72,Afternoon,117
+401,Plant B,Compressor Room,2.01,104.21,Discharge,No comment,30.66,39.68,4.17,Night,115
+402,Plant B,Maintenance Area,1.43,111.77,Discharge,No comment,30.61,35.01,4.68,Night,119
+403,Plant C,Assembly Line 1,24.71,73.0,Background Noise,No comment,24.16,31.15,0.93,Morning,105
+404,Plant C,Storage Area,11.27,65.74,Background Noise,Interference detected,22.96,39.94,1.86,Afternoon,108
+405,Plant B,Assembly Line 1,10.22,61.42,Micro Leak,No comment,21.06,83.45,4.64,Afternoon,112
+406,Plant C,Compressor Room,17.31,98.52,Visible Leak,Clear signal,16.31,44.49,0.31,Morning,107
+407,Plant A,Storage Area,6.24,96.43,Discharge,Interference detected,19.56,51.26,0.46,Afternoon,115
+408,Plant B,Assembly Line 1,23.8,92.8,Micro Leak,Possible leak,19.93,36.32,0.81,Morning,112
+409,Plant C,Packaging Area,19.87,73.92,Micro Leak,No comment,24.68,43.34,2.98,Afternoon,112
+410,Plant B,Assembly Line 2,3.15,83.45,Micro Leak,No comment,29.95,61.15,0.75,Morning,116
+411,Plant A,Compressor Room,11.02,95.67,Background Noise,Possible leak,24.48,66.47,4.84,Afternoon,119
+412,Plant B,Assembly Line 1,22.1,89.81,Discharge,No comment,16.16,44.72,2.23,Morning,104
+413,Plant B,Compressor Room,23.67,119.27,Discharge,Possible leak,34.16,33.46,2.51,Afternoon,116
+414,Plant B,Compressor Room,12.22,68.19,Visible Leak,Interference detected,33.85,53.46,1.23,Night,108
+415,Plant B,Storage Area,15.72,101.71,Discharge,Clear signal,30.7,44.05,2.35,Afternoon,101
+416,Plant A,Storage Area,5.01,84.26,Discharge,Possible leak,34.83,43.17,3.31,Morning,117
+417,Plant B,Assembly Line 2,24.79,85.69,Micro Leak,Needs verification,25.89,87.59,3.76,Night,108
+418,Plant B,Packaging Area,6.56,103.06,Visible Leak,Possible leak,34.26,66.98,3.77,Afternoon,105
+419,Plant C,Compressor Room,23.63,101.55,Discharge,No comment,16.51,63.41,2.89,Night,110
+420,Plant B,Assembly Line 1,16.59,119.48,Background Noise,Interference detected,22.31,54.95,4.52,Afternoon,105
+421,Plant C,Maintenance Area,15.59,67.7,Discharge,Interference detected,19.51,55.74,4.09,Night,105
+422,Plant A,Compressor Room,13.3,66.25,Micro Leak,Possible leak,18.92,62.45,3.79,Morning,112
+423,Plant A,Compressor Room,6.54,103.46,Background Noise,Clear signal,17.82,71.79,0.28,Afternoon,110
+424,Plant A,Assembly Line 2,5.24,94.7,Micro Leak,Needs verification,27.45,72.13,0.03,Afternoon,113
+425,Plant A,Packaging Area,6.29,76.45,Discharge,Interference detected,30.63,40.3,1.06,Morning,101
+426,Plant C,Maintenance Area,5.47,64.77,Background Noise,No comment,26.57,60.01,3.32,Night,107
+427,Plant B,Storage Area,19.71,65.14,Visible Leak,No comment,17.94,54.72,2.06,Morning,102
+428,Plant A,Storage Area,9.4,113.65,Visible Leak,Clear signal,31.22,82.23,2.01,Morning,102
+429,Plant B,Assembly Line 1,2.39,71.51,Background Noise,Interference detected,27.72,67.89,4.42,Night,100
+430,Plant C,Maintenance Area,24.26,79.4,Background Noise,Possible leak,22.76,61.95,4.48,Morning,118
+431,Plant C,Storage Area,22.21,73.6,Micro Leak,No comment,28.48,36.92,4.55,Afternoon,117
+432,Plant C,Assembly Line 1,23.27,81.3,Background Noise,Clear signal,20.2,66.34,1.57,Afternoon,116
+433,Plant A,Packaging Area,24.88,64.17,Micro Leak,Interference detected,21.9,37.03,3.46,Afternoon,119
+434,Plant B,Assembly Line 1,5.17,91.14,Discharge,Interference detected,33.35,50.23,1.36,Morning,112
+435,Plant B,Storage Area,10.51,64.06,Micro Leak,Interference detected,20.81,38.57,0.95,Afternoon,102
+436,Plant B,Assembly Line 2,19.2,108.02,Background Noise,Interference detected,24.4,71.52,0.92,Afternoon,100
+437,Plant C,Assembly Line 2,17.7,74.02,Background Noise,Interference detected,32.8,42.38,1.71,Afternoon,103
+438,Plant A,Assembly Line 2,4.69,92.4,Discharge,No comment,29.15,53.51,2.15,Afternoon,112
+439,Plant C,Storage Area,20.58,112.8,Background Noise,Clear signal,16.24,83.74,4.15,Afternoon,116
+440,Plant C,Assembly Line 2,6.39,99.05,Background Noise,Interference detected,17.95,42.26,0.6,Afternoon,110
+441,Plant B,Maintenance Area,6.37,91.98,Visible Leak,Needs verification,15.16,60.47,3.67,Morning,101
+442,Plant C,Packaging Area,13.89,79.46,Visible Leak,Needs verification,27.62,55.16,2.66,Afternoon,115
+443,Plant B,Assembly Line 1,15.23,79.98,Discharge,Clear signal,23.95,31.09,1.44,Afternoon,101
+444,Plant A,Assembly Line 1,14.92,100.17,Micro Leak,Possible leak,17.69,77.57,2.46,Night,118
+445,Plant B,Storage Area,3.2,119.65,Visible Leak,Possible leak,34.16,34.14,1.5,Morning,118
+446,Plant A,Assembly Line 2,22.06,99.71,Micro Leak,Possible leak,25.59,58.46,2.98,Morning,115
+447,Plant B,Assembly Line 2,7.37,93.47,Background Noise,Needs verification,19.84,63.64,2.17,Morning,118
+448,Plant C,Compressor Room,4.11,103.84,Visible Leak,Possible leak,25.01,67.71,0.82,Morning,108
+449,Plant C,Packaging Area,22.33,87.91,Discharge,No comment,28.59,71.32,0.58,Afternoon,100
+450,Plant A,Maintenance Area,23.94,63.61,Discharge,Interference detected,16.52,45.2,2.73,Afternoon,109
+451,Plant A,Assembly Line 1,21.69,93.74,Discharge,Needs verification,20.49,30.6,4.51,Night,118
+452,Plant A,Compressor Room,20.43,117.46,Visible Leak,Clear signal,31.14,73.41,1.72,Night,100
+453,Plant B,Compressor Room,16.73,70.52,Micro Leak,Clear signal,24.19,62.14,3.67,Morning,101
+454,Plant B,Storage Area,14.22,101.4,Background Noise,Interference detected,25.93,80.17,3.29,Night,115
+455,Plant A,Assembly Line 1,3.09,72.06,Micro Leak,Needs verification,23.66,79.28,4.66,Night,111
+456,Plant C,Storage Area,10.8,92.15,Micro Leak,Possible leak,15.88,80.6,4.1,Morning,107
+457,Plant B,Maintenance Area,9.94,65.8,Background Noise,Possible leak,18.31,59.11,2.83,Morning,117
+458,Plant B,Compressor Room,7.23,87.02,Background Noise,No comment,23.91,50.02,3.29,Night,101
+459,Plant B,Compressor Room,18.36,105.37,Visible Leak,No comment,19.18,77.49,4.49,Afternoon,112
+460,Plant A,Packaging Area,12.9,80.85,Visible Leak,Possible leak,16.0,57.08,2.0,Night,105
+461,Plant A,Maintenance Area,2.95,99.89,Visible Leak,Clear signal,31.87,41.01,1.63,Night,105
+462,Plant A,Compressor Room,6.28,107.73,Visible Leak,Clear signal,34.62,81.3,0.05,Afternoon,108
+463,Plant A,Maintenance Area,17.4,115.63,Visible Leak,No comment,30.86,82.95,4.13,Afternoon,115
+464,Plant A,Assembly Line 1,2.83,74.08,Background Noise,Interference detected,32.08,57.98,4.0,Morning,110
+465,Plant C,Assembly Line 2,21.43,83.96,Micro Leak,Possible leak,19.84,34.54,0.52,Morning,106
+466,Plant C,Compressor Room,12.88,69.14,Visible Leak,No comment,34.21,53.27,2.88,Night,109
+467,Plant A,Packaging Area,12.53,119.55,Visible Leak,No comment,18.94,78.21,2.32,Afternoon,109
+468,Plant B,Assembly Line 1,15.22,115.62,Micro Leak,Possible leak,34.03,84.11,0.59,Morning,119
+469,Plant A,Maintenance Area,20.79,92.4,Visible Leak,Possible leak,34.9,42.21,4.9,Night,117
+470,Plant C,Storage Area,9.35,110.52,Micro Leak,Clear signal,29.23,34.02,1.07,Afternoon,119
+471,Plant C,Assembly Line 1,17.27,91.26,Micro Leak,Interference detected,34.62,82.64,0.34,Night,108
+472,Plant B,Compressor Room,14.58,97.42,Background Noise,Interference detected,26.39,53.36,2.97,Morning,114
+473,Plant C,Maintenance Area,7.41,65.35,Discharge,Possible leak,20.19,62.51,3.69,Morning,103
+474,Plant A,Assembly Line 2,22.09,105.32,Background Noise,Needs verification,23.74,88.08,0.16,Afternoon,107
+475,Plant B,Assembly Line 1,20.14,67.66,Discharge,No comment,26.87,33.99,3.29,Night,108
+476,Plant A,Compressor Room,16.8,109.56,Discharge,No comment,16.46,68.9,2.66,Afternoon,112
+477,Plant A,Packaging Area,21.41,106.92,Discharge,Possible leak,27.45,34.45,0.52,Morning,108
+478,Plant B,Storage Area,21.82,102.52,Visible Leak,Needs verification,34.62,52.53,0.86,Morning,103
+479,Plant A,Maintenance Area,18.0,62.17,Background Noise,Clear signal,18.8,78.23,2.84,Night,116
+480,Plant C,Assembly Line 1,21.09,78.19,Discharge,Possible leak,30.85,56.01,1.48,Night,115
+481,Plant A,Assembly Line 1,17.74,75.79,Micro Leak,Possible leak,33.16,89.83,4.69,Night,114
+482,Plant B,Assembly Line 2,17.32,81.61,Visible Leak,No comment,33.87,63.54,4.09,Afternoon,102
+483,Plant B,Assembly Line 2,15.85,65.26,Background Noise,Possible leak,34.2,49.27,4.92,Night,119
+484,Plant B,Packaging Area,19.07,116.22,Discharge,Possible leak,25.43,43.21,1.3,Night,104
+485,Plant A,Storage Area,4.81,93.23,Micro Leak,Possible leak,34.55,51.03,4.85,Morning,104
+486,Plant B,Packaging Area,22.14,78.33,Background Noise,No comment,30.15,52.35,2.16,Morning,119
+487,Plant B,Compressor Room,21.92,83.82,Background Noise,Clear signal,18.23,34.12,1.74,Night,114
+488,Plant A,Compressor Room,1.7,86.83,Visible Leak,Clear signal,24.54,52.17,0.25,Night,117
+489,Plant C,Packaging Area,20.82,96.04,Background Noise,Possible leak,29.37,57.85,0.26,Morning,114
+490,Plant A,Storage Area,4.09,90.94,Visible Leak,No comment,19.95,73.36,3.46,Night,101
+491,Plant B,Packaging Area,9.04,115.16,Discharge,Clear signal,27.81,69.4,2.29,Afternoon,112
+492,Plant B,Storage Area,18.84,89.82,Visible Leak,Clear signal,28.33,72.53,1.13,Afternoon,103
+493,Plant A,Storage Area,4.86,119.53,Micro Leak,Clear signal,18.25,30.5,3.07,Afternoon,109
+494,Plant C,Maintenance Area,20.63,111.09,Visible Leak,No comment,26.3,43.06,1.26,Night,112
+495,Plant B,Storage Area,20.97,72.51,Micro Leak,No comment,30.43,69.7,2.89,Morning,109
+496,Plant B,Assembly Line 2,13.18,115.84,Visible Leak,Possible leak,24.98,59.04,1.8,Night,108
+497,Plant B,Storage Area,1.15,66.98,Background Noise,Interference detected,15.24,30.32,4.12,Night,107
+498,Plant A,Storage Area,7.89,109.05,Discharge,Clear signal,15.18,78.27,4.1,Morning,102
+499,Plant B,Storage Area,15.81,82.84,Micro Leak,Interference detected,22.14,76.37,2.39,Morning,115
+500,Plant C,Compressor Room,24.55,112.68,Visible Leak,No comment,33.52,62.91,1.75,Morning,113
